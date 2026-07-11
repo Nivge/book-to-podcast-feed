@@ -5,21 +5,44 @@
     <link>https://nivge.github.io/book-to-podcast-feed/</link>
     <description>Private audio notes generated from selected chapters.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Jul 2026 17:35:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 17:44:16 +0000</lastBuildDate>
     <generator>Script.it Book to Podcast</generator>
     <itunes:author>Niv Geron</itunes:author>
     <itunes:summary>Private audio notes generated from selected chapters.</itunes:summary>
+    <itunes:image href="https://nivge.github.io/book-to-podcast-feed/artwork/cover.png" />
+    <image>
+      <url>https://nivge.github.io/book-to-podcast-feed/artwork/cover.png</url>
+      <title>Principles of Program Analysis — Audio Notes</title>
+      <link>https://nivge.github.io/book-to-podcast-feed/</link>
+    </image>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://nivge.github.io/book-to-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
 
     <item>
       <title>Four Roads to the Same Truth: An Introduction to Program Analysis</title>
-      <description>In this opening episode, we explore what program analysis really is and why it matters: the art of predicting, at compile time, what a program will do when it runs. Using a single small factorial program as our guide, we walk through the four great approaches—Data Flow Analysis, Constraint Based Analysis, Abstract Interpretation, and Type and Effect Systems—and discover that beneath their different vocabularies, they&#x27;re often computing the same thing in surprisingly similar ways.</description>
-      <itunes:summary>In this opening episode, we explore what program analysis really is and why it matters: the art of predicting, at compile time, what a program will do when it runs. Using a single small factorial program as our guide, we walk through the four great approaches—Data Flow Analysis, Constraint Based Analysis, Abstract Interpretation, and Type and Effect Systems—and discover that beneath their different vocabularies, they&#x27;re often computing the same thing in surprisingly similar ways.</itunes:summary>
+      <description>In this opening episode, we explore what program analysis really is and why it matters: the art of predicting, at compile time, what a program will do when it runs. Using a single small factorial program as our guide, we walk through the four great approaches—Data Flow Analysis, Constraint Based Analysis, Abstract Interpretation, and Type and Effect Systems—and discover that beneath their different vocabularies, they&#x27;re often computing the same thing in surprisingly similar ways.
+
+Chapters:
+00:00 — Opening: why analyze programs before running them
+06:31 — Data Flow Analysis
+08:45 — Constraint Based Analysis
+11:41 — Abstract Interpretation
+15:06 — Type and Effect Systems
+20:19 — What comes next</description>
+      <itunes:summary>In this opening episode, we explore what program analysis really is and why it matters: the art of predicting, at compile time, what a program will do when it runs. Using a single small factorial program as our guide, we walk through the four great approaches—Data Flow Analysis, Constraint Based Analysis, Abstract Interpretation, and Type and Effect Systems—and discover that beneath their different vocabularies, they&#x27;re often computing the same thing in surprisingly similar ways.
+
+Chapters:
+00:00 — Opening: why analyze programs before running them
+06:31 — Data Flow Analysis
+08:45 — Constraint Based Analysis
+11:41 — Abstract Interpretation
+15:06 — Type and Effect Systems
+20:19 — What comes next</itunes:summary>
+      <itunes:image href="https://nivge.github.io/book-to-podcast-feed/artwork/cover.png" />
       <enclosure url="https://nivge.github.io/book-to-podcast-feed/episodes/chapter-1-four-roads-to-the-same-truth-an-introduction-to-program-analysis.mp3" length="20120548" type="audio/mpeg" />
       <guid isPermaLink="false">book-to-podcast-1-chapter-1-four-roads-to-the-same-truth-an-introduction-to-program-analysis</guid>
-      <pubDate>Sat, 11 Jul 2026 17:35:43 +0000</pubDate>
+      <pubDate>Sat, 11 Jul 2026 17:44:16 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
