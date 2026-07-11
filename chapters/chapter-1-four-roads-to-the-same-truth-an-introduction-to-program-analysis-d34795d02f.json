@@ -1,0 +1,35 @@
+{
+  "version": "1.2.0",
+  "chapters": [
+    {
+      "startTime": 0,
+      "title": "Opening: why analyze programs before running them",
+      "url": "https://nivge.github.io/book-to-podcast-feed/episodes/chapter-1-four-roads-to-the-same-truth-an-introduction-to-program-analysis-d34795d02f.mp3#t=0"
+    },
+    {
+      "startTime": 391,
+      "title": "Data Flow Analysis",
+      "url": "https://nivge.github.io/book-to-podcast-feed/episodes/chapter-1-four-roads-to-the-same-truth-an-introduction-to-program-analysis-d34795d02f.mp3#t=391"
+    },
+    {
+      "startTime": 525,
+      "title": "Constraint Based Analysis",
+      "url": "https://nivge.github.io/book-to-podcast-feed/episodes/chapter-1-four-roads-to-the-same-truth-an-introduction-to-program-analysis-d34795d02f.mp3#t=525"
+    },
+    {
+      "startTime": 701,
+      "title": "Abstract Interpretation",
+      "url": "https://nivge.github.io/book-to-podcast-feed/episodes/chapter-1-four-roads-to-the-same-truth-an-introduction-to-program-analysis-d34795d02f.mp3#t=701"
+    },
+    {
+      "startTime": 906,
+      "title": "Type and Effect Systems",
+      "url": "https://nivge.github.io/book-to-podcast-feed/episodes/chapter-1-four-roads-to-the-same-truth-an-introduction-to-program-analysis-d34795d02f.mp3#t=906"
+    },
+    {
+      "startTime": 1219,
+      "title": "What comes next",
+      "url": "https://nivge.github.io/book-to-podcast-feed/episodes/chapter-1-four-roads-to-the-same-truth-an-introduction-to-program-analysis-d34795d02f.mp3#t=1219"
+    }
+  ]
+}
