@@ -5,7 +5,7 @@
     <link>https://nivge.github.io/book-to-podcast-feed/</link>
     <description>Private audio notes generated from selected chapters.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Jul 2026 15:12:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 16:25:21 +0000</lastBuildDate>
     <generator>Script.it Book to Podcast</generator>
     <itunes:author>Niv Geron</itunes:author>
     <itunes:summary>Private audio notes generated from selected chapters.</itunes:summary>
@@ -17,9 +17,9 @@
       <title>Four Roads to the Same Truth: An Introduction to Program Analysis</title>
       <description>In this opening episode, we explore what program analysis really is and why it matters: the art of predicting, at compile time, what a program will do when it runs. Using a single small factorial program as our guide, we walk through the four great approaches—Data Flow Analysis, Constraint Based Analysis, Abstract Interpretation, and Type and Effect Systems—and discover that beneath their different vocabularies, they&#x27;re often computing the same thing in surprisingly similar ways.</description>
       <itunes:summary>In this opening episode, we explore what program analysis really is and why it matters: the art of predicting, at compile time, what a program will do when it runs. Using a single small factorial program as our guide, we walk through the four great approaches—Data Flow Analysis, Constraint Based Analysis, Abstract Interpretation, and Type and Effect Systems—and discover that beneath their different vocabularies, they&#x27;re often computing the same thing in surprisingly similar ways.</itunes:summary>
-      <enclosure url="https://nivge.github.io/book-to-podcast-feed/episodes/chapter-1-four-roads-to-the-same-truth-an-introduction-to-program-analysis.mp3" length="874" type="audio/mpeg" />
+      <enclosure url="https://nivge.github.io/book-to-podcast-feed/episodes/chapter-1-four-roads-to-the-same-truth-an-introduction-to-program-analysis.mp3" length="20126092" type="audio/mpeg" />
       <guid isPermaLink="false">book-to-podcast-1-chapter-1-four-roads-to-the-same-truth-an-introduction-to-program-analysis</guid>
-      <pubDate>Sat, 11 Jul 2026 15:12:54 +0000</pubDate>
+      <pubDate>Sat, 11 Jul 2026 16:25:21 +0000</pubDate>
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
